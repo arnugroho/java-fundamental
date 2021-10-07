@@ -14,7 +14,7 @@ package com.arnugroho.j2_latihan01;
 * jika n = 8
 * hasil : 2   A   4   B   6   C   8   D
 * */
-public class Lat4DeretHurufAngka {
+public class Lat5DeretHurufAngka {
     public static void main(String[] args) {
         /*Gunakan Scanner agar nilai n dinamis*/
     }
