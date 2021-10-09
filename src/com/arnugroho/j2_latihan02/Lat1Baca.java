@@ -12,7 +12,7 @@ package com.arnugroho.j2_latihan02;
 * 2. Hitung jumlah kata dalam kalimat tersebut
 * 3. Hitung jumlah huruf vokal dalam kalimat tersebut
 * */
-public class Lat1Baca01 {
+public class Lat1Baca {
     public static void main(String[] args) {
         /*Gunakan Scanner agar kalimat dinamis*/
     }

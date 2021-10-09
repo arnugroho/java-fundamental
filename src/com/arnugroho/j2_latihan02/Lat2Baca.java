@@ -17,7 +17,7 @@ package com.arnugroho.j2_latihan02;
 * 4. membalikkan urutan kata suatu kalimat
 *   contoh : akbar riyan nugroho menjadi nugroho riyan akbar
 * */
-public class Lat1Baca02 {
+public class Lat2Baca {
     public static void main(String[] args) {
         /*Gunakan Scanner agar kalimat dinamis*/
     }
