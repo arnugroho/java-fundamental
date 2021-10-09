@@ -7,7 +7,18 @@
 package com.arnugroho.j3_materi_conditional;
 
 import java.util.Scanner;
+/*
+* operator if
+*
+    if (Boolean exspression) {
+        statement atau baris kode ketika Boolean Expression bernilai true
+    }
 
+*   1. If statement menggunakan Boolean expression untuk menseleksi suatu kondisi.
+*   2. Baris kode di dalam blok if dijalankan saat kondisi Boolean expression bernilai true.
+*   3. Jika tidak diberi kurung kurawal ‘{}’, maka if statement hanya berlaku untuk satu baris kode di bawahnya.
+
+* */
 public class OperatorIf {
     public static void main(String[] args) {
         System.out.println("Masukkan Nilai a : ");
